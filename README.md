@@ -2,6 +2,6 @@
 Linggle search engine:
 https://linggle.com/
 
-NLP Lap
+NLP Lab
 ====
 http://www.nlplab.cc/
